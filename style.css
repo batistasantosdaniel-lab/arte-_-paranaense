@@ -1,1 +1,16 @@
-
+body{
+    background-color: #3E00BF;
+    color: #B9EAFF;
+}
+header{
+    background-attachment: green;
+    color: black;
+}
+section{
+    background-color: #B9EAFF;
+    color:darkorange;
+}
+footer{
+    background-color: brown;
+    color: whitesmoke;
+}
