@@ -1,16 +1,24 @@
 body{
     background-color: #3E00BF;
     color: #B9EAFF;
+    font-family: Arial, Helvetica, sans-serif;
 }
 header{
     background-attachment: green;
     color: black;
+    text-align: center;
+    padding: 30px;
 }
-section{
-    background-color: #B9EAFF;
-    color:darkorange;
+
+h1 {
+    font-size: 36px;
 }
-footer{
-    background-color: brown;
-    color: whitesmoke;
+
+h2 {
+    color: #3E00BF;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
 }
